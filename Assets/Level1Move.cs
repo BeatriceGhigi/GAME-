@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class blackChest : MonoBehaviour
+public class Level1Move : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
